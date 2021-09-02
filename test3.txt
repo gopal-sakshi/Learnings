@@ -3,3 +3,9 @@ lets see how this reflects in gopal-sakshi/Learnings.git
 
 Now, I am adding stuff from gopal-sakshi account...
 lets see what happens when I (git pull upstream master)
+
+adding some more stuff in test3.txt (From gopal-sakshi)
+earlier stuff_added in 4,5 lines (some how got reflected in gopal61288) (dont know how)
+I only did git (pull upstream main) in VS code local repository... 
+it should mean, that new_changes_and_updates shold only be there in VS code local repository
+how come, they got reflected in github gopal61288 (remote origin repository) ??
